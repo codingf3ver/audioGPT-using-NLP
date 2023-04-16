@@ -8,3 +8,5 @@ media/*
 build/*
 dist/*
 *.gitignore
+*.DS_Store
+*.vscode/

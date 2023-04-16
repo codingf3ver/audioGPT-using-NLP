@@ -1,0 +1,10 @@
+venv/*
+*.jpg
+*.jpeg
+imgs/*
+sounds/*
+media/*
+*.env
+build/*
+dist/*
+*.gitignore

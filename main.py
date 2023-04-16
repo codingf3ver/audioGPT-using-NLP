@@ -37,7 +37,7 @@ import pygame
 
 MESSAGE_COUNT = 0
 ## Put your API key here
-openai.api_key = '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'
+openai.api_key = os.environ['OPENAI_KEY']
 sounddevice.default.device = 2
 pygame.mixer.init()
 
